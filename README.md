@@ -28,7 +28,11 @@ conda env create -f environment.yml
 and activate it:
 
 ```
-conda activate dawn` or `source activate dawn
+conda activate dawn
+```
+or
+```
+source activate dawn
 ```
 
 ## Running Code
@@ -53,7 +57,7 @@ There are many config files in `configurations/perfect` that cover vanilla train
 python3 main.py --config_file configurations/perfect/mnist-to-mnist-ws250-l5.ini
 ```
 
-Note that you we provide trained victim models for MNIST and CIFAR10.
+Note that we provide trained victim models for MNIST and CIFAR10, and you don't need to train them yourself.
 
 
 ### Watermark Removal
