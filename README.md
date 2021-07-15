@@ -1,5 +1,7 @@
 # DAWN: Dynamic Adversarial Watermarking of Neural Networks
 
+This paper will appear in the Proceedings of ACM Multimedia 2021.
+
 This repo contains code that allows you to reproduce experiments for the watermarking scheme presented in *DAWN: Dynamic Adversarial Watermarking of Neural Networks*.
 
 [Link to the arxiv version](https://arxiv.org/abs/1906.00830)
